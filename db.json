@@ -1,0 +1,94 @@
+{ 
+"users": [ 
+{ 
+"id": 1,
+
+ 
+"name": "Ankit ",
+
+ 
+"email": "ankit.mandloi@gmail.com ",
+
+ 
+"description": "Ydi coding ko nikal de to iske jeevan me kuch nahi bacha"
+
+ 
+},
+
+ 
+{
+
+ 
+"id": 2,
+
+ 
+"name": "Devam Oza",
+
+ 
+"email": "devam.oza@gmail.com",
+
+ 
+"description": "Atleast iske jaisa hi bn jau, kuch seekh pau to thik rhega jeevan"
+
+ 
+},
+
+ 
+{
+
+ 
+"id": 3,
+
+ 
+"name": "Ashika Yellameli",
+
+ 
+"email": "ashika.yellameli@gmail.com",
+
+ 
+"description": "Kewal naam aur aawaz hi thik thi iski"
+
+ 
+},
+
+ 
+{
+
+ 
+"id": 4,
+
+ 
+"name": "Faltu",
+
+ 
+"email": "faltu@gmail.com",
+
+ 
+"description": "Ek aur le lete hai aiwai"
+
+ 
+},
+
+ 
+{
+
+ 
+"id": 5,
+
+ 
+"name": "Faltu1",
+
+ 
+"email": "faltu1@gmail.com",
+
+ 
+"description": "Ek aur le lete hai aiwai 1"
+
+ 
+}
+
+ 
+]
+
+ 
+}
